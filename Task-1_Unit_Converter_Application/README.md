@@ -1,8 +1,6 @@
 Android-Unit-Converter
 ============================================
 
-My first fully functional Android Application.
-
 The app can be used to convert four major units of meassurement.
 
 1. Temperature 
